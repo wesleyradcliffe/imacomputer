@@ -12,4 +12,11 @@
 
 //Uncomment (remove the dashes) from the line of code above. Then SAVE the file.
 //Once the file is saved, go to your command line and type out
-// `node HelloWorld.js`. NEXT go to variables.js
+// `node 1.HelloWorld.js`. 
+
+//https://developer.mozilla.org/en-US/docs/Web/javascript
+//Go to the above link. Bookmark it. This is THE documentation for javascript, maintained
+//by the people who make Firefox. You can find a lot of help online, but get in the habit
+//of going to the Javascript MDN above all others. This is the javascript bible. 
+
+//NEXT go to 2.Types.js
